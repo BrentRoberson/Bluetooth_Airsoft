@@ -1,5 +1,5 @@
 # Bluetooth_Airsoft
-download the app you may have to allow downloads from unknown sources in your settings.
+download the apk on your phone, you may have to allow downloads from unknown sources in your settings.
 how to install apk files: https://www.youtube.com/watch?v=kDkV3jBYi2c
 
 
